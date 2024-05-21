@@ -12,8 +12,8 @@ interface IInfos {
 @Component({
   selector: 'app-card',
   templateUrl: './card.component.html',
-  styleUrls: ['./card.component.scss'],
-  encapsulation: ViewEncapsulation.None
+  styleUrls: ['./card.component.scss']
+
 })
 export class CardComponent {
   plano: IPlano = {
