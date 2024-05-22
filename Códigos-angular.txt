@@ -1,0 +1,3 @@
+Criar novo projeto: ng new <NOME_PROJETO>
+
+Criar componente: ng g c <NOME_DO_COMPONENTE>
