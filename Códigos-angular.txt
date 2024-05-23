@@ -1,3 +1,4 @@
-Criar novo projeto: ng new <NOME_PROJETO>
+Criar novo projeto: ng new <NOME_PROJETO> --no-standalone
 
 Criar componente: ng g c <NOME_DO_COMPONENTE>
+
