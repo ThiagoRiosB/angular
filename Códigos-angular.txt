@@ -2,3 +2,7 @@ Criar novo projeto: ng new <NOME_PROJETO> --no-standalone
 
 Criar componente: ng g c <NOME_DO_COMPONENTE>
 
+criar modulo: ng g m <NOME_DO_COMPONENTE>
+
+instalar o Angular Material: ng add @angular/material
+
