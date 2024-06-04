@@ -8,5 +8,5 @@ import { UsersList } from './data/users-list';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  usersSelected: IUser = UsersList[1];
+  usersSelected: IUser = UsersList[0];
 }
