@@ -4,7 +4,6 @@ import { Pipe, PipeTransform } from '@angular/core';
   name: 'status'
 })
 export class StatusPipe implements PipeTransform {
-
   transform(status: boolean): string {
     const INVALID_STATUS = status === undefined || status === null;
 
@@ -14,5 +13,4 @@ export class StatusPipe implements PipeTransform {
 
     return status ? 'Ativo' : 'Inativo';
   }
-
 }
