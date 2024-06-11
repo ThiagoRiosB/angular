@@ -1,0 +1,25 @@
+Aplicativo de Receitas Saudáveis com Angular
+
+Descrição:
+
+Desenvolva um aplicativo web ou móvel utilizando Angular que permita aos usuários descobrir, salvar e compartilhar receitas saudáveis. O aplicativo deve fornecer uma ampla variedade de receitas, permitir a busca por ingredientes, categorias e tipos de refeições, além de oferecer recursos de favoritos e compartilhamento em redes sociais.
+
+Recursos Principais:
+
+Catálogo de Receitas: Uma extensa coleção de receitas saudáveis, com imagens, instruções passo a passo e informações nutricionais.
+
+Pesquisa Avançada: Capacidade de buscar receitas por ingredientes específicos, restrições dietéticas, tempo de preparo, etc.
+
+Perfil do Usuário: Os usuários devem poder criar perfis personalizados para salvar receitas favoritas, criar listas de compras e receber recomendações personalizadas.
+
+Compartilhamento Social: Recurso para os usuários compartilharem suas receitas favoritas nas redes sociais, como Facebook, Instagram, etc.
+
+Avaliações e Comentários: Os usuários podem avaliar e deixar comentários nas receitas que experimentaram, fornecendo feedback e sugestões.
+
+Notificações: Os usuários podem optar por receber notificações sobre novas receitas, atualizações de favoritos, etc.
+
+Tecnologias Sugeridas:
+
+Angular: Utilize o framework Angular para desenvolver a aplicação frontend.
+TypeScript: Linguagem principal para o desenvolvimento Angular.
+Angular Material: Biblioteca de componentes UI para Angular, que pode facilitar o desenvolvimento da interface do usuário.

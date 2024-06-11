@@ -1,0 +1,37 @@
+Nome do Projeto: Sistema de Gerenciamento de Tarefas com Angular
+
+Descrição:
+
+Desenvolva um sistema de gerenciamento de tarefas utilizando o framework Angular para ajudar equipes a acompanhar e concluir projetos de forma eficiente. O sistema deve permitir que os usuários criem, visualizem, editem e excluam tarefas, além de atribuir tarefas a membros da equipe e acompanhar o progresso.
+
+Recursos Principais:
+
+Cadastro de Usuários: Os usuários devem poder se cadastrar e fazer login no sistema para acessar suas tarefas.
+
+Gerenciamento de Tarefas: Os usuários devem poder criar novas tarefas, definir prazos, atribuir responsáveis e categorizá-las por projeto ou prioridade.
+
+Dashboard: Uma página inicial que exibe um resumo das tarefas pendentes, concluídas e em andamento. Deve fornecer uma visão geral do progresso do projeto.
+
+Notificações: Os usuários devem receber notificações sempre que uma tarefa for atribuída a eles, atualizada ou concluída.
+
+Comentários e Colaboração: Os usuários devem poder adicionar comentários às tarefas para discussões e colaboração em equipe.
+
+Filtragem e Pesquisa: Capacidade de filtrar e pesquisar tarefas com base em diferentes critérios, como status, responsável, data de vencimento, etc.
+
+Segurança: Garantir que o sistema seja seguro, protegendo os dados dos usuários e prevenindo acesso não autorizado.
+
+Tecnologias Sugeridas:
+
+Angular: Utilize o framework Angular para desenvolver a aplicação frontend.
+TypeScript: Linguagem principal para o desenvolvimento Angular.
+Angular CLI: Ferramenta de linha de comando para gerenciar e criar projetos Angular.
+Angular Material: Biblioteca de componentes UI para Angular, que pode facilitar o desenvolvimento da interface do usuário.
+Critérios de Avaliação:
+
+Funcionalidade: Todas as principais funcionalidades descritas devem ser implementadas e funcionais.
+Usabilidade: O sistema deve ser intuitivo e fácil de usar para os usuários.
+Design: Uma interface limpa e agradável é preferível, mas a funcionalidade é prioridade.
+Código Limpo e Documentação: O código deve ser bem organizado, seguindo as melhores práticas de programação, e acompanhado de documentação clara.
+Entrega:
+
+O prazo de entrega para este projeto é de três semanas a partir da data de início.

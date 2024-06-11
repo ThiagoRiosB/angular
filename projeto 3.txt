@@ -1,0 +1,35 @@
+Aplicativo de Gerenciamento para Academias com Angular
+
+Descrição:
+
+Desenvolva um aplicativo de gerenciamento para academias utilizando Angular, projetado para ajudar os funcionários e clientes a acompanhar o progresso dos treinos, agendar sessões, visualizar informações sobre atividades físicas e gerenciar pagamentos.
+
+Recursos Principais:
+
+Agendamento de Sessões: Os clientes podem agendar sessões de treino com instrutores disponíveis, especificando a hora, a data e o tipo de treino desejado.
+
+Gestão de Clientes: Os funcionários podem cadastrar novos clientes, visualizar seus perfis, histórico de treinos e informações de contato.
+
+Controle de Presença: Os instrutores podem marcar a presença dos clientes nas sessões de treino agendadas, mantendo um registro preciso de quem compareceu.
+
+Acompanhamento de Progresso: Os clientes podem visualizar seu progresso ao longo do tempo, incluindo dados como peso, medidas corporais, desempenho em exercícios, etc.
+
+Gestão de Pagamentos: Os clientes podem visualizar seus planos de pagamento, histórico de transações e fazer pagamentos online de mensalidades ou sessões avulsas.
+
+Notificações: Os clientes podem receber notificações sobre próximas sessões agendadas, alterações de horários ou promoções da academia.
+
+Tecnologias Sugeridas:
+
+Angular: Utilize o framework Angular para desenvolver a aplicação frontend.
+TypeScript: Linguagem principal para o desenvolvimento Angular.
+Angular Material: Biblioteca de componentes UI para Angular, que pode facilitar o desenvolvimento da interface do usuário.
+Firebase: Utilize o Firebase Authentication para autenticação de usuários e Firestore para armazenar dados de clientes, agendamentos, etc.
+Critérios de Avaliação:
+
+Funcionalidade: Todas as principais funcionalidades descritas devem ser implementadas e funcionais.
+Usabilidade: O aplicativo deve ser intuitivo e fácil de usar para funcionários e clientes da academia.
+Design: Uma interface limpa e agradável é preferível, mas a funcionalidade é prioridade.
+Código Limpo e Documentação: O código deve ser bem organizado, seguindo as melhores práticas de programação, e acompanhado de documentação clara.
+Entrega:
+
+O prazo de entrega para este projeto é de três semanas a partir da data de início.
