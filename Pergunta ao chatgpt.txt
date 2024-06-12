@@ -1,0 +1,10 @@
+Estou estudando o framework angular e gostaria que você criasse um projeto para mim para eu ter um 
+norte de todas as aplicações que eu devo criar ao longo da elaboração do projeto. 
+
+instalei a biblioteca angular material  para me auxiliar no visual do projeto. 
+
+O projeto que eu quero que você crie será um sistema de gerenciamento para academias, 
+que será projetado para ajudar funcionários e clientes a acompanhar o progresso dos treinos. 
+
+Eu ainda não tenho alguns conhecimentos do angular, como por exemplo a parte das rotas, 
+por isso preciso da sua ajuda de como criar um projeto e também quero que você me explique o que foi feito. 
